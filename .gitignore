@@ -1,0 +1,6 @@
+/env/
+/.pytest_cache/
+/qa-events-archive-test.zip
+/__pycache__/
+/.idea/
+cu-ecs-qa.cer

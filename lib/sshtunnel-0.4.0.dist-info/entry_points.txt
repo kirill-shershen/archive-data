@@ -1,0 +1,2 @@
+[console_scripts]
+sshtunnel = sshtunnel:_cli_main
